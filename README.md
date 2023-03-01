@@ -1,3 +1,10 @@
+# Updated
+fixed. v2.4.0.
+
+# issue
+
+https://github.com/pixiv/charcoal/issues/201 
+
 charcoal v2.0.0 is not work with Next.js reporoduction repo.
 
 ```
